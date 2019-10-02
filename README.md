@@ -2,4 +2,6 @@
 Developer Reference
 
 ## Markdown Syntax
-https://www.markdownguide.org/basic-syntax/
+Quick: https://www.markdownguide.org/basic-syntax/  
+Full: https://markdownmonster.west-wind.com/docs/index.htm  
+
